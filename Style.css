@@ -15,3 +15,9 @@ h3{
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
+.boobs img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
